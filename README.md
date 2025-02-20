@@ -6,9 +6,9 @@ This project analyzes disaster preparedness and resource allocation for HCA Heal
 ## 📂 **Project Components**
 | 📁 File | 📌 Description |
 |---------|--------------|
-| 📽️ [Video Presentation]() | Walkthrough of the project insights and findings |
-| 📊 [Tableau Workbook]() | Interactive Visualizations for disaster response analysis |
-| 📑 [PowerPoint Presentation]() | Slides summarizing our approach and solutions |
+| 📽️ [Video Presentation](https://drive.google.com/drive/folders/115BrDHlqAknG15ukghsxQAJAJ01IqM0g?usp=sharing) | Walkthrough of the project insights and findings |
+| 📊 [Tableau Workbook](HCA-Disaster_Tableau_File_Final.twbx) | Interactive Visualizations for disaster response analysis |
+| 📑 [PowerPoint Presentation](HCA healtcare_Updated 5.pptm) | Slides summarizing our approach and solutions |
 
 
 
